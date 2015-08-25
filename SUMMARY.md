@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](overview/README.md)
-    * [Omega Cloud 云操作系统简介](overview/overview.md)
+    * [SinoEMSCloud 用户手册](overview/overview.md)
     * [Mesos 和 Docker 简介](overview/Introduction-of-Mesos-Docker.md)
 * [试用](diy/diy.md)
 	* [试用 Omega Cloud 指南](diy/diy.md)
